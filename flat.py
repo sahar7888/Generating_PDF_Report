@@ -1,3 +1,6 @@
+
+""" Classes to calculate the bill"""
+
 class Bill:
     def __init__(self, amount, period):
         self.amount = amount
